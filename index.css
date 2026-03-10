@@ -1,0 +1,21 @@
+.containerEl{
+    background-color:  #00bafc;
+    height: 100vh;
+    padding: 20px;
+    text-align: center;
+}
+.bomb-image{
+    height: 25vh;
+    margin-top: 60px;
+}
+.form{
+    margin-top: 20px;
+    height: 6vh;
+    width:40vw ;
+    border-radius: 6px;
+}
+.count{
+    margin-top: 40px;
+    font-size: 40px;
+    color: #ffffff;
+}
